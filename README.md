@@ -38,7 +38,7 @@ Alguns antivírus podem identificar o executável gerado como um **falso positiv
    O código-fonte do programa está disponível neste repositório. Você pode inspecioná-lo para verificar que ele não realiza nenhuma atividade maliciosa.
 
 2. **Compile Você Mesmo**  
-   Para máxima segurança, você pode compilar o executável diretamente no seu computador usando as instruções fornecidas na seção [Instruções para Compilar](#instruções-para-compilar).
+   Para máxima segurança, você pode compilar o executável diretamente no seu computador.
 
 3. **Assinatura Digital (Opcional)**  
    Uma assinatura digital pode ser adicionada ao executável para aumentar a confiança em ambientes que exigem maior segurança.
